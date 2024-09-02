@@ -23,7 +23,7 @@ This is a project created by the website [Frontend Mentor](https://www.frontendm
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [](qr-code-component-main/index.html)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
