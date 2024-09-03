@@ -24,7 +24,7 @@ This is a project created by the website [Frontend Mentor](https://www.frontendm
 ### Links
 
 - Solution URL: [index.html](qr-code-component-main/index.html)
-- Live Site URL: [QRcode - Front end Mentor by Allan](https://66d78dcf064daddb77d733c0--qrcodefrontendmentorbyallan.netlify.app/)
+- Live Site URL: [QRcode - Front end Mentor by Allan Sancley](https://66d78dcf064daddb77d733c0--qrcodefrontendmentorbyallan.netlify.app/)
 
 ### Built with
 
