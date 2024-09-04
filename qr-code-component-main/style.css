@@ -3,6 +3,7 @@ body {
     font-family: "Outfit";
 }
 .container {
+    padding-top: 10px;
     width: 100vw;
     height: 94vh;
     display: flex;
@@ -11,7 +12,6 @@ body {
     align-items: center;
 }
 .box {
-    padding-top: 10px;
     width: 310px;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
