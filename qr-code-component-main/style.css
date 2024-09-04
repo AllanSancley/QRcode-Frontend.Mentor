@@ -3,7 +3,7 @@ body {
     font-family: "Outfit";
 }
 .container {
-    padding-top: 10px;
+    padding-top: 12px;
     width: 100vw;
     height: 94vh;
     display: flex;
