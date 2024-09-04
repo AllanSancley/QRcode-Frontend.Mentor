@@ -11,8 +11,8 @@ body {
     align-items: center;
 }
 .box {
-    width: 320px;
-    height: 530px;
+    width: 310px;
+    height: 500px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     text-align: center;
