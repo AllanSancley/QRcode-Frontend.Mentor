@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,9 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is a project created by the website [Frontend Mentor](https://www.frontendmentor.io), which consists of building a single page with a QR code component, using HTML and CSS for its creation and styling.
 
-### Screenshot
-
-![](images/QRcode-by_Allan.png)
 
 ### Links
 
