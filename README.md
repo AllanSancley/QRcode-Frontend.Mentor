@@ -19,7 +19,7 @@ This is a project created by the website [Frontend Mentor](https://www.frontendm
 
 ### Screenshot
 
-![](../qr-code-component-main/images/QRcode-by_Allan.png)
+![](images/QRcode-by_Allan.png)
 
 ### Links
 
